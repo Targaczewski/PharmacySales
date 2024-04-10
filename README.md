@@ -1,3 +1,5 @@
+WORK STILL IN PROGRESS (Missing BI report)
+
 Quick portfolio project. Analysis and visualisation of drug sales in Serbian pharmacy from 2014 to 2019.
 
 MS Excel, T-SQL, PowerBI
